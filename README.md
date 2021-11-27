@@ -1,6 +1,4 @@
-##Total Profile Views 
 
-![Views](https://dynamic-badges.maxalpha.repl.co/views?id=RamkiHGanesh007.PageID&style=for-the-badge&color=yellow)
 
 ### Hi there 👋 This is Ganesh Kumar
 
