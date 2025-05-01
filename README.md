@@ -26,7 +26,7 @@
 <div align="center">
   <a href="https://github.com/GuramGanesh/GuramGanesh">
     <img height="500" width="650" 
-         src="https://github-readme-stats.vercel.app/api?username=GuramGanesh&include_all_commits=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Ganesh's Awesome GitHub Stats" 
+         src="https://github-readme-stats.vercel.app/api?username=GuramGanesh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Ganesh's Awesome GitHub Stats" 
          alt="Ganesh's GitHub Stats" />
   </a>
   <br/>
