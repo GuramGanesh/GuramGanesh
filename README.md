@@ -1,3 +1,10 @@
+# Hello, I'm Guram Ganesh! 👋
+
+## My GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GURAMGANESH&show_icons=true&count_private=true&theme=radical)](https://github.com/GURAMGANESH/github-readme-stats)
+
+## Languages I Use
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GURAMGANESH&layout=compact&theme=radical)](https://github.com/GURAMGANESH/github-readme-stats)
 
 
 ### Hi there 👋 This is Ganesh Kumar
