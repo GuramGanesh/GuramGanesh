@@ -1,4 +1,3 @@
-
 # Hi there 👋 This is Ganesh Guram
 
 ### My GitHub Stats, Languages, Streak, and Trophies
@@ -8,9 +7,8 @@
          src="https://github-readme-stats.vercel.app/api?username=GURAMGANESH&show_icons=true&count_private=true&theme=radical" 
          alt="Ganesh's GitHub Stats" />
   </a>
-  <br/>
   <a href="https://github.com/GuramGanesh/GuramGanesh">
-    <img height="500" width="650" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURAMGANESH&layout=compact&theme=radical" 
+    <img height="400" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURAMGANESH&layout=compact&theme=radical" 
          alt="Ganesh's Top Languages" />
   </a>
   <br/>
