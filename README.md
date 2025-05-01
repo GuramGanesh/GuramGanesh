@@ -6,32 +6,18 @@
 ## Languages I Use
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GURAMGANESH&layout=compact&theme=radical)](https://github.com/GURAMGANESH/github-readme-stats)
 
-
-### Hi there 👋 This is Ganesh Kumar
-
-### Here are my Github Stats & Most Used Languages
-<a href="https://github.com/GuramGanesh/GuramGanesh">
-  <img align="center" height="500" width="650" 
-       src="https://github-readme-stats.vercel.app/api?username=GuramGanesh&include_all_commits=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ganesh's GitHub Stats" />
-</a>
-
-<a href="https://github.com/GuramGanesh/GuramGanesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuramGanesh&hide=Jupyter Notebook&langs_count=5&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-
-### Hi there 👋 This is Ganesh Kumar
+### Hi there 👋 This is Ganesh Guram
 
 ### My GitHub Stats, Languages, Streak, and Trophies
 <div align="center">
   <a href="https://github.com/GuramGanesh/GuramGanesh">
     <img height="500" width="650" 
-         src="https://github-readme-stats.vercel.app/api?username=GuramGanesh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Ganesh's Awesome GitHub Stats" 
+         src="https://github-readme-stats.vercel.app/api?username=GURAMGANESH&show_icons=true&count_private=true&theme=radical" 
          alt="Ganesh's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/GuramGanesh/GuramGanesh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuramGanesh&hide=Jupyter Notebook,HTML,CSS&langs_count=5&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&theme=transparent&custom_title=Top Languages" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURAMGANESH&layout=compact&theme=radical" 
          alt="Ganesh's Top Languages" />
   </a>
   <br/>
