@@ -1,5 +1,14 @@
 # Hi there 👋 This is Ganesh Guram
 
+### 🌐 Connect with Me & Portfolio
+
+<p align="left">
+  <a href="https://my-prtf-two.vercel.app/my-prtf/browser/index.html">
+    <img src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+
 ### My GitHub Stats, Languages, Streak, and Trophies
 <div align="center">
   <a href="https://github.com/GuramGanesh/GuramGanesh">
